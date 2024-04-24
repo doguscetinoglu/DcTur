@@ -6,6 +6,8 @@
 
 # DCTUR Patika Turizm Acente Sistemi
 
+## Video Link  https://youtu.be/qDNxpAivd-E
+
 ## Otel Yönetimi
 
 - Anlaşmalı otellerin yönetimi (adres, iletişim bilgileri, yıldız derecesi, vb.).
